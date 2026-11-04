@@ -33,12 +33,12 @@ The system recommends books to users and makes it easier to find interesting boo
 📂 Project Structure
 
 Library-Book-Recommendation-System/
-│
-├── main.py
-├── books.csv
-├── requirements.txt
+
+├──create_database.py
+├── library.db
+|── library_recommendation.py
 ├── README.md
-└── images/
+
 
 Note: Update the file structure according to your actual project files.
 
